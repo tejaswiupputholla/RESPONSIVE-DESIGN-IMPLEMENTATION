@@ -15,8 +15,9 @@ The webpage was created using HTML for structure, CSS for styling, and JavaScrip
  Shows layout adjustment in real-time — which proves it is responsive.
  Looks clean, readable, and functional on different breakpoints.
  # OUTPUT:
- Desktop View
+ # Desktop View
  ![Image](https://github.com/user-attachments/assets/639e820a-752a-4fe4-9078-69b4f3479eb1)
- Mobile View
+ # Mobile View
  ![Image](https://github.com/user-attachments/assets/57f6caca-3743-47dc-b1a2-ec391aea5d7a)
+
  
